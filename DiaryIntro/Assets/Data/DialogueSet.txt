@@ -1,0 +1,99 @@
+Anxiety;H... Hi. Are you anxious too? Ugh, never mind.;0
+Options;What's wrong?:2;Yeah, I guess so.:4
+Anxiety;Um, I usually don't like bothering people with my problems.;0
+Options;Why not?:6;Me either.:26;They probably don't care.:8;I don't have time for this!:10
+Anxiety;Really? So... you know why I'm here?;1
+Options;You're here because I'm feeling anxious.:28;You're here because I'm scared.:57;Is feeling anxious really THAT bad?:45
+Anxiety;Because I don't want them to think less of me.;0
+Options;That makes sense.:12;They won't think less of you.:14
+Anxiety;Exactly! There's no point. They hate me already, I'm sure of it.;1
+Options;They don't hate you.:32;I hate this.:18
+Anxiety;Of course you don't. Forget it!;2
+Options;"Of course" I don't?:16;I hate this.:18
+Anxiety;How does it make sense?;0
+Options;People will think you're weak if you bother them:24;I guess it doesn't make that much sense.:38
+Anxiety;You think so? But don't you feel the same way sometimes?;1
+Options;Yes, but it doesn't always help:38;Not really:49
+Anxiety;Nobody has time for me.;0
+Options;I'll talk to you.:34;I feel the same way.:36
+Anxiety;I hate this too... but why do you hate this?;1
+Options;I'm scared:57;I'm anxious:28;I don't know:41
+Anxiety;So, what? You think I should talk about my problems?;0
+Options;Sometimes it can help:51;Maybe not:53
+Anxiety;Does that really help though? I feel worse...;0
+Options;I guess not. :41
+Anxiety;Does that mean you think I'm weak for bothering you?;0
+Options;No:30;Yes:55
+Anxiety;Yeah. It's better to just keep it in.;0
+Options;Yep.:22;I'm not sure that's true.:20
+Anxiety;What can you do about that?;3
+Options;I don't know.:30;I could try doing something relaxing:58;I could try doing something exciting:79
+Anxiety;Well... What's helped you feel less anxious before?;1
+Options;Being with friends or family:79;Exercising:79;Playing video games:58;Listening to Music:79
+Anxiety;Oh really? How do you know that?;0
+Options;I'm talking to you now.:43
+Anxiety;You'd do that? What's something that might help me calm down?;0
+Options;Something relaxing:58;Something exciting:79;I don't know :41
+Anxiety;What way?;0
+Options;Anxious:28;Scared:57;I don't know:41
+Anxiety;Well, maybe I don't need to stress so much. But it's needed sometimes!;0
+Options;How?:51;I'm stressed too:28;Exactly.:40
+Anxiety;Thanks for the talk. I'll be here if you need me, but I think I'll take a rest for now.;3
+Anxiety;Is it because you've felt like me before?;0
+Options;Yes...:30;No!:49
+Anxiety;I guess that's true. Can you help me then?;0
+Options;Yes:28;No:47
+Anxiety;True. It can sometimes be helpful, like before a test. But is it helpful for you right now?;0
+Options;Yes, I'm anxious about something important:40;No, it's making things difficult:28
+Anxiety;Why don't you think you can help?;0
+Options;I'm anxious too:28;I'm bad at this:41
+Anxiety;Some anxiety is normal, you know.;0
+Options;I guess so:30;How?:51
+Anxiety;Anxious thoughts can be helpful in keeping you safe, or preparing you for something important.;3
+Options;It's not helping me right now:28;True. My anxious thoughts are helping me.:40
+Anxiety;But then I'll just feel worse! Argh!;2
+Options;I don't know what to tell you :41
+Anxiety;Why do you think that?;0
+Options;Because I feel the same way:28;Because I hate this:18
+Anxiety;What are you scared of?;0
+Anxiety;Okay! So how about trying this today: Read a new book from your favorite genre;3
+Options;Okay!:40;I don't like that!:60
+Anxiety;Okay! So how about trying this today: Try a new free indie game;3
+Options;Okay!:40;I don't like that!:62
+Anxiety;Okay! So how about trying this today: Play an old favorite video game;3
+Options;Okay!:40;I don't like that!:64
+Anxiety;Okay! So how about trying this today: Watch an episode of your favorite comedy;3
+Options;Okay!:40;I don't like that!:66
+Anxiety;Okay! So how about trying this today: Listen to some new music;3
+Options;Okay!:40;I don't like that!:68
+Anxiety;Okay! So how about trying this today: Listen to your favorite music;3
+Options;Okay!:40;I don't like that!:70
+Anxiety;Okay! So how about trying this today: Listen to a podcast;3
+Options;Okay!:40;I don't like that!:72
+Anxiety;Okay! So how about trying this today: Write a story;3
+Options;Okay!:40;I don't like that!:74
+Anxiety;Okay! So how about trying this today: Take a bath;3
+Options;Okay!:40;I don't like that!:76
+Anxiety;Okay! So how about trying this today: Sit outside (if the weather is nice);3
+Options;Okay!:40
+Anxiety;;0
+Anxiety;Okay! So how about trying this today: Play Basketball;3
+Options;Okay!:40;I don't like that!:81
+Anxiety;Okay! So how about trying this today: Go for a jog;3
+Options;Okay!:40;I don't like that!:83
+Anxiety;Okay! So how about trying this today: Go to the movies with friends;3
+Options;Okay!:40;I don't like that!:85
+Anxiety;Okay! So how about trying this today: Talk to a family member;3
+Options;Okay!:40;I don't like that!:87
+Anxiety;Okay! So how about trying this today: Go to Target with friends;3
+Options;Okay!:40;I don't like that!:89
+Anxiety;Okay! So how about trying this today: Pilates or Yoga;3
+Options;Okay!:40;I don't like that!:91
+Anxiety;Okay! So how about trying this today: Go shopping;3
+Options;Okay!:40;I don't like that!:93
+Anxiety;Okay! So how about trying this today: Get coffee/dessert with a friend;3
+Options;Okay!:40;I don't like that!:95
+Anxiety;Okay! So how about trying this today: Play a board game with others;3
+Options;Okay!:40;I don't like that!:97
+Anxiety;Okay! So how about trying this today: Call a friend about their day;3
+Options;Okay!:40
